@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<container>
+    <animal>
+        <category>한국의</category>
+        <subcategory>野生</subcategory>
+        <name>アマミノクロウサギ</name>
+        <description>また琉球ウサギとして知られ、原始的、暗い毛皮ウサギです</description>
+        <eat>집에서 만드는 음식</eat>
+    </animal>
+    <animal>
+        <category>한국의</category>
+        <subcategory>野生</subcategory>
+        <name>キクガシラコウモリ</name>
+        <description>キクガシラコウモリ（キクガシラコウモリ）はキクガシラコウモリ属のヨーロッパのバットです。その分布は、ヨーロッパ、アフリカ、南アジア、オーストラリアをカバーしています。</description>
+        <eat>牛の部品は、幼虫のための食料源と生息地として機能し、そのライフサイクルの一部である。</eat>
+    </animal>
+</container>
+

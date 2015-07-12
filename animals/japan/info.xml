@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<container>
+    <animal>
+        <category>한국의</category>
+        <name>홈</name>
+        <description>집에서 사는 동물</description>
+        <eat>집에서 만드는 음식</eat>
+    </animal>
+    <animal>
+        <category>한국의</category>
+        <name>야생</name>
+        <description>야생에 사는 동물</description>
+        <eat>야생 음식</eat>
+    </animal>
+</container>
+

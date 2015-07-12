@@ -1,0 +1,7 @@
+
+# My IDE project
+nbproject/
+
+
+# Ignore config folder, after initial commit with empty values
+# config.php

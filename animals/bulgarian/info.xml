@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<container>
+    <animal>
+        <category>Български</category>
+        <name>Домашни</name>
+        <description>Животни, които живеят у дома</description>
+        <eat>Домашна храна</eat>
+    </animal>
+    <animal>
+        <category>Български</category>
+        <name>Диви</name>
+        <description>Животни, които живеят в природата</description>
+        <eat>Дива храна</eat>
+    </animal>
+</container>
+

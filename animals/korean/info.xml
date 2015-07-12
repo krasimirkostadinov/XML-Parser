@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<container>
+    <animal>
+        <category>日本人</category>
+        <name>ホーム</name>
+        <description>同居動物</description>
+        <eat>手作りの料理</eat>
+    </animal>
+    <animal>
+        <category>日本人</category>
+        <name>野生</name>
+        <description>野生で生きた動物</description>
+        <eat>ワイルド食品</eat>
+    </animal>
+</container>
+

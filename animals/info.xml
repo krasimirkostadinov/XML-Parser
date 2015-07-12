@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<container>
+    <animal>
+        <category>Bulgarian</category>
+        <name>Bulgarian</name>
+        <description>Folder contain bulgarian animals</description>
+        <eat></eat>
+    </animal>
+    <animal>
+        <category>Japan</category>
+        <name>Japan</name>
+        <description>Folder contain Japan animals</description>
+        <eat></eat>
+    </animal>
+	<animal>
+        <category>Korean</category>
+        <name>Korean</name>
+        <description>Folder contain Korean animals</description>
+        <eat></eat>
+    </animal>
+</container>
+
