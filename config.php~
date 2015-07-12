@@ -1,8 +1,0 @@
-<?php
-
-//Basic configuration of variables for including files
-define('ROOT_PATH', dirname(__FILE__));
-define('HOST_PATH', 'http://localhost/xml-parser.dev');
-
-//--------- Set folder for getting structure -----------
-$dir_path = ROOT_PATH . '/animals';
