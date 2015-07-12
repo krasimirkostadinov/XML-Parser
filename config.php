@@ -2,11 +2,11 @@
 
 //Basic configuration of variables for including files
 define('ROOT_PATH', dirname(__FILE__));
-define('HOST_PATH', '');
+define('HOST_PATH', 'http://xml-parser.dev');
 
 //--------- Define database user and password
-define('DB_USER', '');
-define('DB_PASS', '');
+define('DB_USER', 'root');
+define('DB_PASS', 'krassis');
 
 //--------- Set folder for getting structure -----------
 $dir_path = ROOT_PATH . '/animals';
