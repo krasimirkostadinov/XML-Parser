@@ -26,17 +26,18 @@ My solution:
   
   I build custom PHP API, using Bootstrap 3.0, jQuery, Ajax and PHP-PDO for secure database connection. Escape dangerous tags and possible XSS attack.
   
-  __On project home page there’s four tabs, showing:__
-  1. Show Database – show all current rows from database
-  2. Show XML file paths – show full paths to all XML files inside scanned directory in multiple level deep.
-    a. Button to import XML data into database
-    b. If XML <name> element exist in database, script will update current row’s data and new value for date_created.
-  3. Show XML file contents – show all structured data from XML files.
-  4. Show directory tree – show all files and subfolders inside $dir_path
-    a. Created test files (test.txt) to ensure script escapes not XML files.
+  __I have four tabs on homepage, showing:__
+  1. __Show Database__ – show all current rows from database
+  2. __Show XML file paths__ – show full paths to all XML files inside scanned directory in multiple level deep.
+    - Button to import XML data into database
+    - If XML <name> element exist in database, script will update current row’s data and update value for date_created timestamp.
+  3. __Show XML file contents__ – show all structured data from XML files.
+  4. __Show directory tree__ – show all files and subfolders inside $dir_path.
+    - Created test files (test.txt) to ensure script escapes not XML files.
 
-  On the top of the page you can search for animals in database by animal’s name.
-  Filtered XSS validation.
+  * On the top of the page you can search for animals in database by animal’s name.
+  
+  * Filtered XSS validation.
 
 
 Installation:
