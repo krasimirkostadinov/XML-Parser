@@ -42,11 +42,18 @@ My solution:
 
 Installation:
 -------------
-  1. Create MySQL database at your setup.
-  2. Configure virtualhost and set execute permission to project root flder (if Linux based)
-  3. Please setup your project settings in ./config.php file.
+  1. Download project ZIP file or clone it via GIT with command:
+  
+  ```
+  git clone https://github.com/krasimir-kostadinov/XML-Parser.git
+  ```
+  
+  2. Create MySQL database at your setup.
+  3. Import "animals.sql" file from projec root folder. This is initial database with just a few records. 
+  4. Configure virtualhost and set execute permission to project root folder (if Linux based).
+  5. Please setup your project settings in ./config.php file.
     !important config settings:
-    - HOST_PATH - this is host path (also URL) to your local project
+    - HOST_PATH - host path (also URL) to your local project. It is used also for loading resource files.
     - DB_USER - user for database connection
     - DB_PASS - user's password for database connection
     - $dir_path - folder to parse (default /animals)
