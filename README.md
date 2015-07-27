@@ -44,8 +44,14 @@ Installation:
 -------------
   1. Download project ZIP file or clone it via GIT with command:
   
+  __HTTPS__
   ```
-  git clone https://github.com/krasimir-kostadinov/XML-Parser.git
+  git clone https://github.com/krasimirkostadinov/XML-Parser.git
+  ```
+  
+  __SSH__
+  ```
+  git clone git@github.com:krasimirkostadinov/XML-Parser.git
   ```
   
   2. Create MySQL database at your setup.
