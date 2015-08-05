@@ -24,7 +24,10 @@ class Parser {
         'public',
         'models',
         'ajax',
-        'animals.sql'
+        'animals.sql',
+        '.git',
+        '.gitignore',
+        '.idea/'
     );
 
     /**
